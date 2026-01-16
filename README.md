@@ -24,6 +24,17 @@ Key Features:
 - Modern UI - Dark-themed interface with syntax-highlighted output
 - Minimal Dependencies - Only Python standard library + requests module
 
+Screenshots:
+------------
+
+Main Interface:
+
+![Main Interface](images/main-interface.png)
+
+API Response Viewer:
+
+![API Response](images/api-response.png)
+
 API Categories & Endpoints:
 ---------------------------
 
