@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 """
-Versa Director REST API Demo - Standalone GUI Application
-==========================================================
-A standalone GUI application for testing Versa Director REST APIs.
+Versa-REST-API-Demo
++++++++++++++++++++
+Versa-REST-API-Demo simplifies Versa Director API testing with an intuitive GUI interface. Perfect for network engineers, automation developers, and anyone working with Versa SD-WAN infrastructure.
 
 Author: Rengaramalingam A
 Email:  rengahcl@gmail.com, rengaramalingam.a@versa-networks.com
+LinkedIn: https://www.linkedin.com/in/rengaramalingama/
 
 DISCLAIMER:
 -----------
