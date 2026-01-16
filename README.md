@@ -105,6 +105,10 @@ Use Cases:
 - Prototyping automation scripts
 - Troubleshooting API integrations
 
+Compatibility:
+
+- Tested on Versa Director version 22.1.4
+
 License:
 
 MIT License - Free to use and modify for your needs.
